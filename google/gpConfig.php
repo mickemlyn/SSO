@@ -8,8 +8,8 @@ include_once 'src/contrib/Google_Oauth2Service.php';
 /*
  * Configuration and setup Google API
  */
-$clientId = '794247244933-lnucp7ea95p4u4rluueo1ubcflg8n6k9.apps.googleusercontent.com'; //Google client ID
-$clientSecret = '934EbB9Yfxf5bZDpQR1MaYeD'; //Google client secret
+$clientId = '**************************************'; //Google client ID
+$clientSecret = '**********************************'; //Google client secret
 $redirectURL = 'http://localhost/mickemlyn/sso/google'; //Callback URL
 //http://localhost/mickemlyn/sso/landing
 //Call Google API
